@@ -1,6 +1,7 @@
 # Barbell Exercise Classifier
 
-### Project Report[https://github.com/1minute99/Barbell-Exercise-Classifier/blob/main/main.ipynb]
+### Project Report
+- https://github.com/1minute99/Barbell-Exercise-Classifier/blob/main/main.ipynb
 
 ### Objective
 - Build a Model that can classify barbell exercises using the time series data.
